@@ -1,0 +1,24 @@
+@media screen and (min-width: 480px){
+  .main-section{
+    width: 420px;
+    margin: auto;
+  }
+
+  .welcome h1{
+    margin-left: 50px;
+  }
+
+  .flex img{
+    width: 150px;
+  }
+
+  .first-img{
+    font-size: 12px;
+    margin-left: 30px;
+  }
+
+  .flex h1{
+    margin-top: 100px;
+  }
+
+}
